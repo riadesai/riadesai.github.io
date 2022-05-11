@@ -1,0 +1,55 @@
+baseurl = "https://riadesai.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishDir = "docs"
+
+author = "Ria Desai"
+title = "Ria Desai"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Ria Desai"
+intro = "Biomedical Engineer"
+description = "Now a MLDP @Merck. Previously R&D Intern @Edwards Lifesciences"
+authorimage = "RD.jpg"
+dateformat = "May 10, 2022"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+instagram = "ria.desai.n"
+linkedin = "ria-d-469142133"
+email = "rnd29@cornell.edu"
+
+## Main Menu
+[[menu.main]]
+    name = "projects"
+    weight = 200
+    identifier = "projects"
+    url = "/projects/"
+
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+
+[[menu.main]]
+   name = "resume"
+   url = "RDR.pdf"
+   weight = 300

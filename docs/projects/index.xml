@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ria Desai</title>
+    <link>https://riadesai.github.io/projects/</link>
+    <description>Recent content in Projects on Ria Desai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://riadesai.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bruxism Detection</title>
+      <link>https://riadesai.github.io/projects/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riadesai.github.io/projects/second/</guid>
+      <description>In order to combat bruxism (unconscious jaw clenching), we designed a detection system that integrated myoelectric sensor activity with negative biofeedback through a vibrational motor system.</description>
+    </item>
+    
+    <item>
+      <title>PCOS ML Model</title>
+      <link>https://riadesai.github.io/projects/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riadesai.github.io/projects/first/</guid>
+      <description>Being personally afflicted with polycystic ovary syndrome (PCOS), I wanted to create a model that could take common symptom inputs such as hormone levels, weight, and follicle size to give patients like me a better likelihood of if they are presenting signs of PCOS or not</description>
+    </item>
+    
+    <item>
+      <title>TMVR Edwards Lifesciences</title>
+      <link>https://riadesai.github.io/projects/third/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riadesai.github.io/projects/third/</guid>
+      <description>I designed and prototyped an internal mechanism for a future concept handle for the SAPIEN M3, a mitral valve replacement, delivery system. I also collaborated with key stakeholders to brainstorm and implement ways to solve manufacturing pain points in the nose fin area of the SAPIEN M3 dock delivery system</description>
+    </item>
+    
+  </channel>
+</rss>

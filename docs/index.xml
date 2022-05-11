@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ria Desai</title>
+    <link>https://riadesai.github.io/</link>
+    <description>Recent content on Ria Desai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://riadesai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://riadesai.github.io/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://riadesai.github.io/about/</guid>
+      <description>I&amp;rsquo;m Ria Desai, a senior at Cornell University studying Biomedical Engineering with a minor in Business. Outside of class, I serve on the product development team for Cornell Biomedical Device and am a part of Alpha Omega Epsilon. Over the years, I&amp;rsquo;ve developed a passion for design at the intersection between technology and biology. I&amp;rsquo;m especially driven to help address unmet needs in the medical field with innovative thinking and insight from my engineering curricula.</description>
+    </item>
+    
+    <item>
+      <title>Bruxism Detection</title>
+      <link>https://riadesai.github.io/projects/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riadesai.github.io/projects/second/</guid>
+      <description>In order to combat bruxism (unconscious jaw clenching), we designed a detection system that integrated myoelectric sensor activity with negative biofeedback through a vibrational motor system.</description>
+    </item>
+    
+    <item>
+      <title>PCOS ML Model</title>
+      <link>https://riadesai.github.io/projects/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riadesai.github.io/projects/first/</guid>
+      <description>Being personally afflicted with polycystic ovary syndrome (PCOS), I wanted to create a model that could take common symptom inputs such as hormone levels, weight, and follicle size to give patients like me a better likelihood of if they are presenting signs of PCOS or not</description>
+    </item>
+    
+    <item>
+      <title>TMVR Edwards Lifesciences</title>
+      <link>https://riadesai.github.io/projects/third/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riadesai.github.io/projects/third/</guid>
+      <description>I designed and prototyped an internal mechanism for a future concept handle for the SAPIEN M3, a mitral valve replacement, delivery system. I also collaborated with key stakeholders to brainstorm and implement ways to solve manufacturing pain points in the nose fin area of the SAPIEN M3 dock delivery system</description>
+    </item>
+    
+  </channel>
+</rss>
